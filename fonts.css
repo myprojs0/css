@@ -1,0 +1,39 @@
+@font-face {
+	font-family: IranSansB;
+	font-style: normal;
+	font-weight: bold;
+src:url('https://www.irtextbook.com/fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot');
+src:url('https://www.irtextbook.com/fonts/IranSans/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix') format('embedded-opentype'),
+url('https://www.irtextbook.com/fonts/IranSans/woff2/IRANSansWeb(FaNum)_Bold.woff2') format('woff2'),
+url('https://www.irtextbook.com/fonts/IranSans/woff/IRANSansWeb(FaNum)_Bold.woff') format('woff'),
+url('https://www.irtextbook.com/fonts/IranSans/ttf/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: Vazir;
+font-style: normal;
+font-weight: bold;
+src:url(http://cdn.persiangig.com/preview/yEC9uCXwwt/Vazir.eot);
+src:url(http://cdn.persiangig.com/preview/yEC9uCXwwt/Vazir.eot?#iefix) format('embedded-opentype'),
+url(http://cdn.persiangig.com/preview/bJHVAABMrq/Vazir.woff2) format('woff2'),
+url(http://cdn.persiangig.com/preview/cO8UEP5JTD/Vazir.woff) format('woff'),
+url(http://cdn.persiangig.com/preview/6RJd2jS2PX/Vazir.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: IrYekanB;
+	font-style: normal;
+	font-weight: bold;
+	src: url('https://www.irtextbook.com/fonts/IranYekan/eot/iranyekanwebbold.eot') format('eot'),
+src:url('https://www.irtextbook.com/fonts/IranYekan/eot/iranyekanwebbold.eot?#iefix') format('embedded-opentype'),
+url('https://www.irtextbook.com/fonts/IranYekan/woff2/iranyekanwebbold.woff2') format('woff2'),
+url('https://www.irtextbook.com/fonts/IranYekan/woff/iranyekanwebbold.woff') format('woff'),
+url('https://www.irtextbook.com/fonts/IranYekan/ttf/iranyekanwebbold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: BMitra;
+    src: url('https://samt.tamin.ir/portal/taminBlue/fonts/guest/BMitra.eot?#') format('eot'),  
+url('https://samt.tamin.ir/portal/taminBlue/fonts/guest/BMitra.woff') format('woff'),  
+url('https://samt.tamin.ir/portal/taminBlue/fonts/guest/BMitra.ttf') format('truetype');
+}
